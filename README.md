@@ -1,3 +1,3 @@
 # first-repo
 my first git repo
-author - ADI
+author - (ADI SHAIKH)
